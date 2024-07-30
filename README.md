@@ -26,7 +26,7 @@ podman run -v ~/src/crypt4gh/rootdir:/data \
 Inside the container run:
 
 ```sh
-# crypt4ghfs /open
+crypt4ghfs /open
 ```
 
 The output should be:
