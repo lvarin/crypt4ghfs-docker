@@ -2,7 +2,7 @@
 
 Followed the instructions at:
 
-* <https://github.com/EGA-archive/crypt4ghfs/tree/master>
+* <https://github.com/EGA-archive/crypt4ghfs/>
 
 and made my own `Dockerfile`.
 
